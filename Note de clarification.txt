@@ -2,27 +2,27 @@ Sujet : projet de création d'une base de données pour la gestion d'une bibliot
 
 La note de clarification : 
 
-1. **Objectif Général** : Informatiser les activités de la bibliothèque, y compris le catalogage, les consultations, la gestion des utilisateurs, et les prêts.
+1. Objectif Général : Informatiser les activités de la bibliothèque, y compris le catalogage, les consultations, la gestion des utilisateurs, et les prêts.
 
-2. **Gestion des Ressources Documentaires** :
-   - **Catalogue** : Inclut livres, films, enregistrements musicaux, chacun avec un code unique, titre, liste de contributeurs, date d'apparition, éditeur, genre, et code de classification.
-   - **Détails des Ressources** : Informations spécifiques telles que l'ISBN pour les livres, la langue, la longueur, et le synopsis pour les films.
-   - **Gestion des Exemplaires** : Suivi de l'état de chaque exemplaire (neuf, bon, abîmé, perdu).
+2. Gestion des Ressources Documentaires :
+   - Catalogue : Inclut livres, films, enregistrements musicaux, chacun avec un code unique, titre, liste de contributeurs, date d'apparition, éditeur, genre, et code de classification.
+   - Détails des Ressources : Informations spécifiques telles que l'ISBN pour les livres, la langue, la longueur, et le synopsis pour les films.
+   - Gestion des Exemplaires : Suivi de l'état de chaque exemplaire (neuf, bon, abîmé, perdu).
 
-3. **Gestion des Utilisateurs** :
-   - **Comptes du Personnel** : Pour l'accès aux fonctions d'administration (login, mot de passe, informations personnelles).
-   - **Comptes des Adhérents** : Pour emprunter des documents (login, mot de passe, informations personnelles, historique d'adhésion).
+3. Gestion des Utilisateurs :
+   - Comptes du Personnel : Pour l'accès aux fonctions d'administration (login, mot de passe, informations personnelles).
+   - Comptes des Adhérents : Pour emprunter des documents (login, mot de passe, informations personnelles, historique d'adhésion).
 
-4. **Fonctionnalités de Prêt** :
-   - **Processus d'Emprunt** : Authentification nécessaire, enregistrement de la date de prêt et de la durée, limitation du nombre d'œuvres empruntées.
-   - **Gestion des Pénalités** : Sanctions pour retards ou détériorations, suspension de prêt, blacklisting en cas de violations répétées.
+4. Fonctionnalités de Prêt :
+   - Processus d'Emprunt : Authentification nécessaire, enregistrement de la date de prêt et de la durée, limitation du nombre d'œuvres empruntées.
+   - Gestion des Pénalités : Sanctions pour retards ou détériorations, suspension de prêt, blacklisting en cas de violations répétées.
 
-5. **Recherche et Gestion des Emprunts par les Adhérents** :
+5. Recherche et Gestion des Emprunts par les Adhérents :
    - Permettre aux adhérents de rechercher facilement des documents et de gérer leurs emprunts.
 
-6. **Facilitation du Travail du Personnel** :
+6. Facilitation du Travail du Personnel :
    - Aider le personnel dans la gestion des prêts, des retards, des réservations, et dans l'ajout ou la modification des ressources.
 
-7. **Analyses Statistiques** :
+7. Analyses Statistiques :
    - Établir des statistiques sur les documents empruntés pour identifier les tendances, et pour suggérer des documents aux adhérents basés sur leur profil.
 
